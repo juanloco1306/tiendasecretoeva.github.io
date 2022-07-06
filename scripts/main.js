@@ -1,4 +1,4 @@
-const serverUrl = 'https://git.heroku.com/shoping-eva.git';
+const serverUrl = 'https://tienda-eva.herokuapp.com/';
 const itemsPath = 'items/';
 const imagesPath = 'img/';
 
